@@ -15,7 +15,3 @@
 
 
 
-
-/*
-"api-tests-production": "newman run tests/TestpurposeJenkins.postman_collection.json --reporters junit --reporter-junit-export newman.xml"
-*/
