@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Project for storing postman tests",
   "scripts": {
-    "api-tests-production": "newman run tests/TestpurposeJenkins.postman_collection.json --reporters cli,junit --reporter-junit-export neuerMann/newmanreport.xml"
+    "api-tests-production": "newman run tests/TestpurposeJenkins.postman_collection.json --reporters cli,junit --reporter-junit-export newmanreport.xml"
   },
   "author": "CB",
   "dependencies": {
